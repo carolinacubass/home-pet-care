@@ -8,12 +8,17 @@ No projeto consta as informações pessoais e de contato, com link direto para w
 </p>
 <br>
 <h4>:computer:Tecologias Utilizadas:</h4>
-- *Vite*
-- *React.js*
-- *TypeScript* 
-- *Tailwind CSS* 
-- *Lucide React* 
-- *ShadCN UI* 
+- Vite
+<br>
+- React.js
+<br>
+- TypeScript 
+<br>
+- Tailwind CSS
+<br>
+- Lucide React 
+<br>
+- ShadCN UI
 <br>
 <h3>✔️ Imagens do Projeto:</h3>
 <img src="https://github.com/carolinacubass/home-pet-care/blob/main/imagens%20do%20projeto%20pronto/1.png" alt="imagem-1"/>
