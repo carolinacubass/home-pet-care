@@ -7,6 +7,14 @@ Landing page para uma Médica Veterinária, com o objetivo de facilitar a divulg
 No projeto consta as informações pessoais e de contato, com link direto para whatsapp, instagram e e-mail, os tipos de serviço que ela presta e as regiões onde ela atende.
 </p>
 <br>
+<h4>:computer:Tecologias Utilizadas:</h4>
+- *Vite*
+- *React.js*
+- *TypeScript* 
+- *Tailwind CSS* 
+- *Lucide React* 
+- *ShadCN UI* 
+<br>
 <h3>✔️ Imagens do Projeto:</h3>
 <img src="https://github.com/carolinacubass/home-pet-care/blob/main/imagens%20do%20projeto%20pronto/1.png" alt="imagem-1"/>
 <img src="https://github.com/carolinacubass/home-pet-care/blob/main/imagens%20do%20projeto%20pronto/2.png" alt="imagem-2"/>
